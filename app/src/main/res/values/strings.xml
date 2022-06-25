@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RPC</string>
+    <string name="this_is_your_choice">This is your choice</string>
+    <string name="take_this">Take this!</string>
+    <string name="imager">ImageR</string>
+    <string name="imagep">ImageP</string>
+    <string name="you_0_me_0">You: 0 Me: 0</string>
+    <string name="rock">ROCK</string>
+    <string name="scissor">Scissor</string>
+    <string name="paper">Paper</string>
+</resources>
